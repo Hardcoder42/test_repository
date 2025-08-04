@@ -5,3 +5,4 @@ sec = int(min) * 60
 
 info = f"{days} суток = {hours} часов = {min} минут = {sec} секунд"
 print(info)
+print()
